@@ -1,0 +1,9 @@
+[submodule "paper-lens"]
+	path = paper-lens
+	url = https://github.com/Himanshu21035/paper-lens
+[submodule "paper-lens-api"]
+	path = paper-lens-api
+	url = https://github.com/Himanshu21035/paper-lens-api
+[submodule "paper-lens-web"]
+	path = paper-lens-web
+	url = https://github.com/Himanshu21035/paper-lens-web
